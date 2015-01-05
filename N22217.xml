@@ -110,15 +110,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:029308_0000_0FE046BA5F8B2A30"/>
-            <pb facs="tcp:029308_0001_0FE0469EEE90AB68" rendition="simple:additions"/>
+            <pb facs="unknown:029308_0000_0FE046BA5F8B2A30"/>
+            <pb facs="unknown:029308_0001_0FE0469EEE90AB68"
+                rendition="simple:additions"/>
             <p>THE JOURNEYMEN CABINET AND CHAIR-MAKERS PHILADELPHIA BOOK OF PRICES.</p>
             <p>SECOND EDITION, CORRECTED AND ENLARGED.</p>
             <p>ENTERED ACCORDING TO ACT OF CONGRESS.</p>
             <p>PHILADELPHIA: PRINTED BY ORMROD AND CONRAD, AT FRANKLIN's HEAD, NO. 41, CHESNUT-STREET. M.DCCXCV.</p>
          </div>
          <div type="introduction">
-            <pb facs="tcp:029308_0002_0FE046B061E546D0"/>
+            <pb facs="unknown:029308_0002_0FE046B061E546D0"/>
             <head>INTRODUCTION</head>
             <p>THE recent improvements in our trade, will evince the necessity of the enlargement of our book of prices, especially as many articles in our for<g ref="char:EOLhyphen"/>mer book, were not clear enough to prevent differ<g ref="char:EOLhyphen"/>ent constructions being put on them both by em<g ref="char:EOLhyphen"/>ployers and journeymen, which has been the cause of frequent disputes between them. In order to prevent the like in future, it is requested both parties will be particular in acquainting themselves with the following</p>
             <p>General Explanation.</p>
@@ -130,7 +131,7 @@
                </gap> secretary drawer is in<g ref="char:EOLhyphen"/>troduced into any piece of work, deduct the price of the drawers taken out for its reception, then add the price of the secretary drawer.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:029308_0003_0FE0467D9E7053F0"/>
+            <pb facs="unknown:029308_0003_0FE0467D9E7053F0"/>
             <head>Table of Contents.</head>
             <list>
                <item>A dressing chest, <hi>Page 9</hi>
@@ -311,7 +312,7 @@
                <item>A horse fire screen, ibid.</item>
             </list>
             <p>
-               <pb n="4" facs="tcp:029308_0004_0FE0468DEC3440F0"/>Tables of all descriptions whatever, to <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb n="4" facs="unknown:029308_0004_0FE0468DEC3440F0"/>Tables of all descriptions whatever, to <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> on the tops for both length and width, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -331,7 +332,7 @@
             <p>When a secretary is made with drawers in bottom part, instead of doors, deduct for the doors as in doors for recesses, and the book shelf, then add for each drawer as in secretary scratchbeaded.</p>
             <p>For the price of framed backs, muntings in plain backs, ditto in drawer bottoms, slipping of drawer sides or lining up partitions crossway, except where mentioned in the preamble of any piece of work, see dressing chest.</p>
             <list>
-               <pb n="5" facs="tcp:029308_0005_0FE046122D681D70"/>
+               <pb n="5" facs="unknown:029308_0005_0FE046122D681D70"/>
                <item>A pole screen, <hi>Page 68</hi>
                </item>
                <item>Mount<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -493,7 +494,7 @@
             </list>
          </div>
          <div type="table">
-            <pb facs="tcp:029308_0006_0FE04664EDF7A3A0"/>
+            <pb facs="unknown:029308_0006_0FE04664EDF7A3A0"/>
             <head>TABLE of CENTS.</head>
             <p>
                <table>
@@ -972,7 +973,7 @@
       </front>
       <body>
          <div type="book_of_prices">
-            <pb facs="tcp:029308_0007_0FE0466BAADA90D8"/>
+            <pb facs="unknown:029308_0007_0FE0466BAADA90D8"/>
             <head>THE JOURNEYMEN Cabinet and Chair Makers' PHILADELPHIA BOOK OF PRICES.</head>
             <div type="list_of_prices">
                <head>A Dressing Chest,</head>
@@ -1015,7 +1016,7 @@
                   <label>Planting Astregal round ditto </label>
                   <item>(see table)</item>
                   <label>
-                     <pb n="10" facs="tcp:029308_0008_0FE046170F706480"/>A slider<g ref="char:punc">▪</g> square clamp'd, solid, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="10" facs="unknown:029308_0008_0FE046170F706480"/>A slider<g ref="char:punc">▪</g> square clamp'd, solid, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ip'd for cloth, cock<g ref="char:EOLhyphen"/>beaded,</label>
                   <item>£. 0 5 0</item>
@@ -1093,7 +1094,7 @@
                   <label>Miter clamping ditto, each miter extra,</label>
                   <item>0 1 0</item>
                   <label>
-                     <pb n="11" facs="tcp:029308_0009_0FE046CCD8E49EA0"/>A framed slider with a flap, square clamp'd, the flap lip'd for cloth, and a horse under ditto,</label>
+                     <pb n="11" facs="unknown:029308_0009_0FE046CCD8E49EA0"/>A framed slider with a flap, square clamp'd, the flap lip'd for cloth, and a horse under ditto,</label>
                   <item>£. 0 12 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -1164,7 +1165,7 @@
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="12" facs="tcp:029308_0010_0FE0466D33F31E38"/>
+               <pb n="12" facs="unknown:029308_0010_0FE0466D33F31E38"/>
                <head>A Serpentine Dressing Chest with straight wings,</head>
                <list>
                   <label>Four feet long, four drawers in the middle, and four ditto in each wing, cockbeaded, as<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1227,7 +1228,7 @@
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="13" facs="tcp:029308_0011_0FE0466EC41253F0"/>
+               <pb n="13" facs="unknown:029308_0011_0FE0466EC41253F0"/>
                <head>A Dressing Chest,</head>
                <list>
                   <label>The front divided in three parts, the mid<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1297,7 +1298,7 @@
                   <label>Veneering each cover,</label>
                   <item>0 0 3</item>
                   <label>
-                     <pb n="14" facs="tcp:029308_0012_0FE0467137403210"/>Hinging each ditto,</label>
+                     <pb n="14" facs="unknown:029308_0012_0FE0467137403210"/>Hinging each ditto,</label>
                   <item>£. 0 0 8</item>
                   <label>Putting a lock on ditto,</label>
                   <item>0 0 8</item>
@@ -1383,7 +1384,7 @@
                   <item>£. 2 12 8</item>
                </list>
                <list>
-                  <pb n="15" facs="tcp:029308_0013_0FE0463208B84108"/>
+                  <pb n="15" facs="unknown:029308_0013_0FE0463208B84108"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length,</label>
                   <item>£. 0 0 6</item>
@@ -1460,7 +1461,7 @@
                      </gap>ing the inside work black,</label>
                   <item>0 3 0</item>
                   <label>
-                     <pb n="16" facs="tcp:029308_0014_0FE0464B05231428"/>Colouring ditto with mahogany colour,</label>
+                     <pb n="16" facs="unknown:029308_0014_0FE0464B05231428"/>Colouring ditto with mahogany colour,</label>
                   <item>£. 0 1 6</item>
                   <label>When the partition<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1534,7 +1535,7 @@
                   <label>Veneering partition edges </label>
                   <item>(see ditto)</item>
                   <label>
-                     <pb n="17" facs="tcp:029308_0015_0FE04620674ED208"/>Sinking out of the solid to receive cloth,</label>
+                     <pb n="17" facs="unknown:029308_0015_0FE04620674ED208"/>Sinking out of the solid to receive cloth,</label>
                   <item>£ 0 2 6</item>
                   <label>Lining ditto with cloth,</label>
                   <item>0 1 6</item>
@@ -1602,7 +1603,7 @@
                   <item>£. 7 19 9</item>
                </list>
                <list>
-                  <pb n="18" facs="tcp:029308_0016_0FE04634749BD988"/>
+                  <pb n="18" facs="unknown:029308_0016_0FE04634749BD988"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length,</label>
                   <item>£ 0 2 4</item>
@@ -1695,7 +1696,7 @@
                      </gap>
                   </item>
                   <label>
-                     <pb n="19" facs="tcp:029308_0017_0FE04647EF3E5470"/>Each piece across the carcase to stay the ends,</label>
+                     <pb n="19" facs="unknown:029308_0017_0FE04647EF3E5470"/>Each piece across the carcase to stay the ends,</label>
                   <item>£ 0 1 0</item>
                   <label>Putting in the pannels with a bead behind,</label>
                   <item>0 2 11</item>
@@ -1757,7 +1758,7 @@
                   <label>Putting in the pannels with a bead behind each pair,</label>
                   <item>0 2 11</item>
                   <label>
-                     <pb n="20" facs="tcp:029308_0018_0FE04618998AD180"/>Veneering the breaks in the middle carcase,</label>
+                     <pb n="20" facs="unknown:029308_0018_0FE04618998AD180"/>Veneering the breaks in the middle carcase,</label>
                   <item>£ 0 2 0</item>
                   <label>Each jump joint in the surbase,</label>
                   <item>0 1 6</item>
@@ -1814,7 +1815,7 @@
                   <label>Hinging the front under the cornice the hinges not to shew in front,</label>
                   <item>0 7 0</item>
                   <label>
-                     <pb n="21" facs="tcp:029308_0019_0FE0463E598E7EE8"/>Making the above to represent a clothes press with sur<g ref="char:EOLhyphen"/>base moulding round the carcase,</label>
+                     <pb n="21" facs="unknown:029308_0019_0FE0463E598E7EE8"/>Making the above to represent a clothes press with sur<g ref="char:EOLhyphen"/>base moulding round the carcase,</label>
                   <item>£ 0 11 4</item>
                   <label>If the end of the surbase moulding is crossway extra,</label>
                   <item>0 1 10</item>
@@ -1878,7 +1879,7 @@
                   <item>£. 2 8 0</item>
                </list>
                <list>
-                  <pb n="22" facs="tcp:029308_0020_0FE0465268AB50E0"/>
+                  <pb n="22" facs="unknown:029308_0020_0FE0465268AB50E0"/>
                   <head>Extras.</head>
                   <label>Each inch more or less, in length, height or depth of ends,</label>
                   <item>£ 0 0 10</item>
@@ -1947,7 +1948,7 @@
                   <label>Each letter hole,</label>
                   <item>0 0 8</item>
                   <label>
-                     <pb n="23" facs="tcp:029308_0021_0FE0464D72B9DAE8"/>Each common arch,</label>
+                     <pb n="23" facs="unknown:029308_0021_0FE0464D72B9DAE8"/>Each common arch,</label>
                   <item>£ 0 0 3</item>
                   <label>Each drawer not exceeding twelve inches long or three inches deep,</label>
                   <item>0 2 6</item>
@@ -2006,7 +2007,7 @@
                <head>A Library Book-case with wings,</head>
                <list>
                   <label>Six feet long, 7 feet 4 inches high between the plinth and cor<g ref="char:EOLhyphen"/>nice, the middle ends of lower part one foot seven inches wide, the middle ends of upper part, one foot two inches wide, flat pannel'd doors, to the upper and lower part, the pannels
-<pb n="24" facs="tcp:029308_0022_0FE04656CB18D9D0"/>
+<pb n="24" facs="unknown:029308_0022_0FE04656CB18D9D0"/>
 plow'd in, the lower part made in one carcase, three clothes press shelves in the center, and one book-shelf in each wing; the upper part made in three carcases, with 9 book-shelves in ditto, framed backs, loose cornice, and fast plinth, all solid, for cornice (see plate)</label>
                   <item>£. 16 10 9</item>
                </list>
@@ -2061,7 +2062,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="25" facs="tcp:029308_0023_0FE0465936678168"/>
+               <pb n="25" facs="unknown:029308_0023_0FE0465936678168"/>
                <head>A Straight Front Cabinet,</head>
                <list>
                   <label>Four feet long, four feet three inches high between the mouldings, in two carcases, two inner ends, and four flat pannel'd doors, in the upper part, the pannels plow'd in, two ditto to the wings of lower part, and one drawer in the center cock-beaded, the lower ends 14 inches wide, the upper ends 7 inches wide, on taper stump feet, all solid, for cornice (see plate)</label>
@@ -2120,7 +2121,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>13 14 0</item>
                </list>
                <list>
-                  <pb n="26" facs="tcp:029308_0024_0FE04679A429A8F0"/>
+                  <pb n="26" facs="unknown:029308_0024_0FE04679A429A8F0"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length when as above,</label>
                   <item>0 3 4</item>
@@ -2184,7 +2185,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>When a straight top four inches wide and the ends square,</label>
                   <item>0 2 10 ½</item>
                   <label>
-                     <pb n="27" facs="tcp:029308_0025_0FE0462EB3D19060"/>Making the top round, extra,</label>
+                     <pb n="27" facs="unknown:029308_0025_0FE0462EB3D19060"/>Making the top round, extra,</label>
                   <item>£ 0 2 10 ½</item>
                   <label>Ditto serpentine,</label>
                   <item>0 5 11</item>
@@ -2251,7 +2252,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Other extras </label>
                   <item>(see tables of ditto)</item>
                   <label>
-                     <pb n="28" facs="tcp:029308_0026_0FE0468F78AC4530"/>A plain cove in front to sham a drawer above the fall,</label>
+                     <pb n="28" facs="unknown:029308_0026_0FE0468F78AC4530"/>A plain cove in front to sham a drawer above the fall,</label>
                   <item>£ 0 14 0</item>
                   <label>Each extra sham with a string,</label>
                   <item>0 1 0</item>
@@ -2310,7 +2311,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Each extra drawer in ditto,</label>
                   <item>0 2 6</item>
                   <label>
-                     <pb n="29" facs="tcp:029308_0027_0FE0465E88B08C60"/>Each letter hole in ditto,</label>
+                     <pb n="29" facs="unknown:029308_0027_0FE0465E88B08C60"/>Each letter hole in ditto,</label>
                   <item>£ 0 1 0</item>
                   <label>Each plain arch,</label>
                   <item>0 0 3</item>
@@ -2373,7 +2374,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Lining the top with cloth,</label>
                   <item>0 2 10</item>
                   <label>
-                     <pb n="30" facs="tcp:029308_0028_0FE0463B462424C0"/>Ditto with leather,</label>
+                     <pb n="30" facs="unknown:029308_0028_0FE0463B462424C0"/>Ditto with leather,</label>
                   <item>£. 0 4 3</item>
                   <label>Mitering stuff for a moulding round the top,</label>
                   <item>0 3 6</item>
@@ -2428,7 +2429,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="31" facs="tcp:029308_0029_0FE04640C8E08988"/>
+               <pb n="31" facs="unknown:029308_0029_0FE04640C8E08988"/>
                <head>A Circular Library Writing Table,</head>
                <list>
                   <label>Three feet six inches diameter four drawers in ditto, to run in square, and four sham ditto, cock-beaded, the top to run round on a pillar, and fastened to ditto, by a wedge through the top of the pillar, claws as No. 2 in plate,</label>
@@ -2493,7 +2494,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 3 0 0</item>
                </list>
                <list>
-                  <pb n="32" facs="tcp:029308_0030_0FE046628003A980"/>
+                  <pb n="32" facs="unknown:029308_0030_0FE046628003A980"/>
                   <head>Extras.</head>
                   <label>Each inch longer or wider,</label>
                   <item>0 0 11 ¾</item>
@@ -2563,7 +2564,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>A frize under the top moulding, veneer'd crossway, with an astregal at foot,</label>
                   <item>0 17 1</item>
                   <label>
-                     <pb n="33" facs="tcp:029308_0031_0FE04625A21EC590"/>For pillasters, </label>
+                     <pb n="33" facs="unknown:029308_0031_0FE04625A21EC590"/>For pillasters, </label>
                   <item>(see straight front library)</item>
                   <label>Breaking the astregal round pillasters each miter,</label>
                   <item>£ 0 0 2</item>
@@ -2622,7 +2623,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Making the frame to form a kneehole and the front of the drawer to sham two short ditto under the upper front,</label>
                   <item>0 15 9</item>
                   <label>
-                     <pb n="34" facs="tcp:029308_0032_0FE0460EAF2E1830"/>A plain arch,</label>
+                     <pb n="34" facs="unknown:029308_0032_0FE0460EAF2E1830"/>A plain arch,</label>
                   <item>£. 0 3 0</item>
                   <label>For the price of extra work in ditto </label>
                   <item>(see straight celle<g ref="char:EOLhyphen"/>
@@ -2688,7 +2689,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 1 6 9</item>
                </list>
                <list>
-                  <pb n="35" facs="tcp:029308_0033_0FE04615870516B0"/>
+                  <pb n="35" facs="unknown:029308_0033_0FE04615870516B0"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length,</label>
                   <item>£ 0 0 7</item>
@@ -2773,7 +2774,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>A rais'd stretcher,</label>
                   <item>0 5 6</item>
                   <label>
-                     <pb n="36" facs="tcp:029308_0034_0FE0467B2CD0C740"/>An open or pierc'd stretcher,</label>
+                     <pb n="36" facs="unknown:029308_0034_0FE0467B2CD0C740"/>An open or pierc'd stretcher,</label>
                   <item>£ 0 7 0</item>
                   <label>When the flaps of Pembroke tables are rounded at the corners, the banding of the flaps </label>
                   <item>in that case to be paid for the same as circular,</item>
@@ -2836,7 +2837,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Ditto the end rails half serpentine,</label>
                   <item>0 8 6</item>
                   <label>
-                     <pb n="37" facs="tcp:029308_0035_0FE0462909BB7C50"/>An astregal or hollow and two beads on the edge of the top when straight ends,</label>
+                     <pb n="37" facs="unknown:029308_0035_0FE0462909BB7C50"/>An astregal or hollow and two beads on the edge of the top when straight ends,</label>
                   <item>£ 0 5 6</item>
                   <label>Ditto when the ends are half serpentine,</label>
                   <item>0 7 8</item>
@@ -2901,7 +2902,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Two extra legs,</label>
                   <item>0 7 0</item>
                   <label>
-                     <pb n="38" facs="tcp:029308_0036_0FE04624158454D0"/>Each break on the tops with crossband and a single string,</label>
+                     <pb n="38" facs="unknown:029308_0036_0FE04624158454D0"/>Each break on the tops with crossband and a single string,</label>
                   <item>£ 0 0 6</item>
                   <label>Each extra string,</label>
                   <item>0 0 1</item>
@@ -2972,7 +2973,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Each extra drawer when more than one in length,</label>
                   <item>0 5 6</item>
                   <label>
-                     <pb n="39" facs="tcp:029308_0037_0FE046307ABF5E20"/>If made with an elliptic front, extra,</label>
+                     <pb n="39" facs="unknown:029308_0037_0FE046307ABF5E20"/>If made with an elliptic front, extra,</label>
                   <item>£ 0 5 0</item>
                   <label>A drawer in ditto the length of the frame,</label>
                   <item>0 6 6</item>
@@ -3047,7 +3048,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Ditto on the edge of a hollow'd shelf</label>
                   <item>0 3 7</item>
                   <label>
-                     <pb n="40" facs="tcp:029308_0038_0FE046781A00B918"/>Breaking ditto round the legs each miter</label>
+                     <pb n="40" facs="unknown:029308_0038_0FE046781A00B918"/>Breaking ditto round the legs each miter</label>
                   <item>£ 0 0 2</item>
                   <label>A stretcher the three front sweeped hollow and tenon'd into the legs</label>
                   <item>0 11 6</item>
@@ -3104,7 +3105,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>An astregal or stone moulding on the edge of the top, per foot,</label>
                   <item>0 0 5 ½</item>
                   <label>
-                     <pb n="41" facs="tcp:029308_0039_0FE0464978F20C78"/>Ditto with a frize and astregal at foot, per foot,</label>
+                     <pb n="41" facs="unknown:029308_0039_0FE0464978F20C78"/>Ditto with a frize and astregal at foot, per foot,</label>
                   <item>£. 0 1 3</item>
                   <label>Clamping the top to appear as solid,</label>
                   <item>0 1 10 ½</item>
@@ -3167,7 +3168,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Each shelf in ditto,</label>
                   <item>0 1 2</item>
                   <label>
-                     <pb n="42" facs="tcp:029308_0040_0FE04787A0963190"/>For br<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <pb n="42" facs="unknown:029308_0040_0FE04787A0963190"/>For br<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>ks in the top with band and string </label>
                   <item>(see ovale corner'd card table)</item>
@@ -3234,7 +3235,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 3 8 2 ½</item>
                </list>
                <list>
-                  <pb n="43" facs="tcp:029308_0041_0FE0478BE37967D8"/>
+                  <pb n="43" facs="unknown:029308_0041_0FE0478BE37967D8"/>
                   <head>Extras.</head>
                   <label>Each inch mere or less in length or width,</label>
                   <item>£. 0 1 0</item>
@@ -3311,7 +3312,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>A celleret side-board the end drawers to form a break of one inch, and shaping the top, extra from straight,</label>
                   <item>0 5 0</item>
                   <label>
-                     <pb n="44" facs="tcp:029308_0042_0FE04714ECBE8B48"/>Forming a hollow in the break of ditto,</label>
+                     <pb n="44" facs="unknown:029308_0042_0FE04714ECBE8B48"/>Forming a hollow in the break of ditto,</label>
                   <item>£. 0 10 0</item>
                   <label>A Cupboard underneath the middle drawer with two doors straight front,</label>
                   <item>0 12 6</item>
@@ -3369,7 +3370,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 5 18 8 ½</item>
                </list>
                <list>
-                  <pb n="45" facs="tcp:029308_0043_0FE0476B50848FB8"/>
+                  <pb n="45" facs="unknown:029308_0043_0FE0476B50848FB8"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length, width, or depth of framing,</label>
                   <item>£. 0 1 5</item>
@@ -3432,7 +3433,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>For extra work in ditto </label>
                   <item>(see straight front celleret side<g ref="char:EOLhyphen"/>board,</item>
                   <label>
-                     <pb n="46" facs="tcp:029308_0044_0FE0471676029578"/>A loose cistern for bottles when an angle drawer in middle,</label>
+                     <pb n="46" facs="unknown:029308_0044_0FE0471676029578"/>A loose cistern for bottles when an angle drawer in middle,</label>
                   <item>£ 0 8 6</item>
                   <label>Ditto when the front is straight inside,</label>
                   <item>0 7 0</item>
@@ -3491,7 +3492,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="47" facs="tcp:029308_0045_0FE046E6AAFEC660"/>
+               <pb n="47" facs="unknown:029308_0045_0FE046E6AAFEC660"/>
                <head>A Celleret Side-board, with Elliptic Middle and Elliptic Hollow on each side,</head>
                <list>
                   <label>Five feet long, two feet six inches wide, framing fifteen inches deep, veneer'd front, the edge of the top square, a deep draw<g ref="char:EOLhyphen"/>er at one end, fitted up for bottles, a plain drawer or cupboard at the other end, a shallow ditto in the middle, cock-beaded, six plain marlbro' legs, and an astregal round the bottom of the frame,</label>
@@ -3544,7 +3545,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>A plain arch,</label>
                   <item>0 5 9</item>
                   <label>
-                     <pb n="48" facs="tcp:029308_0046_0FE04734098C61B8"/>A loose cistern for bottles to fit the sweep,</label>
+                     <pb n="48" facs="unknown:029308_0046_0FE04734098C61B8"/>A loose cistern for bottles to fit the sweep,</label>
                   <item>0 £. 10 0</item>
                   <label>A small ditto to wash glasses in,</label>
                   <item>0 8 <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3618,7 +3619,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Sweeping the front with a pannel bent in,</label>
                   <item>0 16 9</item>
                   <label>
-                     <pb n="49" facs="tcp:029308_0047_0FE04784EE8E6D30"/>If made elliptic extra,</label>
+                     <pb n="49" facs="unknown:029308_0047_0FE04784EE8E6D30"/>If made elliptic extra,</label>
                   <item>0 5 6</item>
                   <label>Each sweep front drawer above the door,</label>
                   <item>0 7 9</item>
@@ -3680,7 +3681,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="50" facs="tcp:029308_0048_0FE0473280306A88"/>
+               <pb n="50" facs="unknown:029308_0048_0FE0473280306A88"/>
                <head>A Pillar and Claw Dining Table,</head>
                <list>
                   <label>Four feet long, two feet wide, a solid block screw'd to the top, three claws, as No. 2, in plate,</label>
@@ -3751,7 +3752,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="51" facs="tcp:029308_0049_0FE046CE605511B0"/>
+               <pb n="51" facs="unknown:029308_0049_0FE046CE605511B0"/>
                <head>A Lady's Dressing Table No. 1.</head>
                <list>
                   <label>Two feet long, one foot five inches wide, a flat top to ditto, a glass frame hing'd to a sliding piece, and four loose covers inside, plain marlbro legs, and an Astregal round the bottom of the frame, all solid</label>
@@ -3818,7 +3819,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="52" facs="tcp:029308_0050_0FE047683B351AC0"/>
+               <pb n="52" facs="unknown:029308_0050_0FE047683B351AC0"/>
                <head>A Bason Stand,</head>
                <list>
                   <label>Thirteen inches square, a drawer in ditto scratch-beaded, without a stretcher, two holes for cups, and a lipping round the top,</label>
@@ -3887,7 +3888,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="53" facs="tcp:029308_0051_0FE0470687A90F40"/>
+               <pb n="53" facs="unknown:029308_0051_0FE0470687A90F40"/>
                <head>A Corner Bason Stand,</head>
                <list>
                   <label>The ends one foot three inches from front to back, <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3948,7 +3949,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 2 16 0</item>
                </list>
                <list>
-                  <pb n="54" facs="tcp:029308_0052_0FE04769C786A6A8"/>
+                  <pb n="54" facs="unknown:029308_0052_0FE04769C786A6A8"/>
                   <head>Extras.</head>
                   <label>Each inch more or less each way,</label>
                   <item>0 0 7</item>
@@ -4029,7 +4030,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 3 13 0</item>
                </list>
                <list>
-                  <pb n="55" facs="tcp:029308_0053_0FE047404B5B93D8"/>
+                  <pb n="55" facs="unknown:029308_0053_0FE047404B5B93D8"/>
                   <head>Extras.</head>
                   <label>Each inch more or less each way,</label>
                   <item>0 0 7</item>
@@ -4089,7 +4090,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Miter clamping ditto each miter extra,</label>
                   <item>0 1 0</item>
                   <label>
-                     <pb n="56" facs="tcp:029308_0054_0FE046FE287B9238"/>Making the above round front,</label>
+                     <pb n="56" facs="unknown:029308_0054_0FE046FE287B9238"/>Making the above round front,</label>
                   <item>1 5 10</item>
                   <label>Ditto elliptic extra,</label>
                   <item>0 5 10</item>
@@ -4178,7 +4179,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                         <desc>•</desc>
                      </gap> 6</item>
                   <label>
-                     <pb n="57" facs="tcp:029308_0055_0FE04735929E1530"/>Veneering the front longway,</label>
+                     <pb n="57" facs="unknown:029308_0055_0FE04735929E1530"/>Veneering the front longway,</label>
                   <item>£. 0 3 8</item>
                   <label>A reed door, extra,</label>
                   <item>0 4 2 ½</item>
@@ -4254,7 +4255,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="58" facs="tcp:029308_0056_0FE0475AF5537958"/>
+               <pb n="58" facs="unknown:029308_0056_0FE0475AF5537958"/>
                <head>A Night Table No. 1,</head>
                <list>
                   <label>One foot eight inches long, one foot four inches wide, one door in front scratch-beaded, a flat top with a moulding on the edge of ditto, or the edge veneer'd and a string in the upper corner, plain marlbro' legs, the stool to draw out with part of the front legs, all solid,</label>
@@ -4321,7 +4322,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Square clamping the top,</label>
                   <item>0 1 5</item>
                   <label>
-                     <pb n="59" facs="tcp:029308_0057_0FE046F38AC9B030"/>Ditto the flap or doors each,</label>
+                     <pb n="59" facs="unknown:029308_0057_0FE046F38AC9B030"/>Ditto the flap or doors each,</label>
                   <item>0 0 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -4401,7 +4402,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <label>Making the ends of the top round,</label>
                   <item>0 7 0</item>
                   <label>
-                     <pb n="60" facs="tcp:029308_0058_0FE0475C83AF38D8"/>Glueing up the rails in two thicknesses,</label>
+                     <pb n="60" facs="unknown:029308_0058_0FE0475C83AF38D8"/>Glueing up the rails in two thicknesses,</label>
                   <item>0 6 0</item>
                   <label>A bidet square outside, the inside shaped to the pan, the top either solid or for stuffing made to slide on the frame or two pins in back of ditto and lock'd in front the frame of the top lap dovetail'd or veneer'd, plain marl<g ref="char:EOLhyphen"/>bro' legs, the framing 4 inches deep,</label>
                   <item>
@@ -4471,7 +4472,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 1 6 0</item>
                </list>
                <list>
-                  <pb n="61" facs="tcp:029308_0059_0FE04719CA8BA560"/>
+                  <pb n="61" facs="unknown:029308_0059_0FE04719CA8BA560"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length or width,</label>
                   <item>0 0 5</item>
@@ -4550,7 +4551,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                      </gap> plinth,</label>
                   <item>5 0 0</item>
                   <label>
-                     <pb n="62" facs="tcp:029308_0060_0FE0477587577888"/>Each inch above two feet in length,</label>
+                     <pb n="62" facs="unknown:029308_0060_0FE0477587577888"/>Each inch above two feet in length,</label>
                   <item>0 1 3</item>
                   <label>If made with pedestals deduct for the frame,</label>
                   <item>0 12 10</item>
@@ -4619,7 +4620,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 0 8 0</item>
                </list>
                <list>
-                  <pb n="63" facs="tcp:029308_0061_0FE047439F7C3228"/>
+                  <pb n="63" facs="unknown:029308_0061_0FE047439F7C3228"/>
                   <head>Extras.</head>
                   <label>Each inch more or less in length or width when solid,</label>
                   <item>0 0 2 ½</item>
@@ -4696,7 +4697,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                   <item>£. 0 18 0</item>
                </list>
                <list>
-                  <pb n="64" facs="tcp:029308_0062_0FDF7633D67999E0"/>
+                  <pb n="64" facs="unknown:029308_0062_0FDF7633D67999E0"/>
                   <head>Extras.</head>
                   <label>A drawer in ditto</label>
                   <item>0 7 0</item>
@@ -4766,7 +4767,7 @@ plow'd in, the lower part made in one carcase, three clothes press shelves in th
                <head>A Celleret,</head>
                <list>
                   <label>Ten inches square, lap dovetail'd together, the corners rounded,
-<pb n="65" facs="tcp:029308_0063_0FE0473D36B42680"/>
+<pb n="65" facs="unknown:029308_0063_0FE0473D36B42680"/>
 or an ovalo stuck on the edge of ditto, the inside partition'd off for four bottles, a flat top with a hollow under ditto, the bottom to project to form a plinth</label>
                   <item>0 12 0</item>
                </list>
@@ -4834,7 +4835,7 @@ or an ovalo stuck on the edge of ditto, the inside partition'd off for four bott
                <head>An Oval Cellaret,</head>
                <list>
                   <label>Two feet long, one foot four inches wide. the staves glued up, the bottom groov'd in, the top dowel'd on, and a moulding round
-<pb n="66" facs="tcp:029308_0064_0FE04748E724E790"/>
+<pb n="66" facs="unknown:029308_0064_0FE04748E724E790"/>
 the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLhyphen"/>ner, a scratch-bead on the top where it opens, the stand made of inch stuff, a quarter round in the corner of ditto, and a rim to receive the cellaret plain taper legs block'd behind to the stand,</label>
                   <item>£. 3 6 9</item>
                </list>
@@ -4901,7 +4902,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                   <label>Making and fixing a pair of wood ditto,</label>
                   <item>0 5 8</item>
                   <label>
-                     <pb n="67" facs="tcp:029308_0065_0FDF76314DC09D58"/>Grooving the bottom for the edge of the cloth,</label>
+                     <pb n="67" facs="unknown:029308_0065_0FDF76314DC09D58"/>Grooving the bottom for the edge of the cloth,</label>
                   <item>0 0 5 ½</item>
                   <label>Lipping the bottom for cloth,</label>
                   <item>0 1 6</item>
@@ -4972,7 +4973,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                   <label>Covering the tacks with mahogany,</label>
                   <item>0 2 6</item>
                   <label>
-                     <pb n="68" facs="tcp:029308_0066_0FE0470810E220D8"/>Ditto when sweep rails,</label>
+                     <pb n="68" facs="unknown:029308_0066_0FE0470810E220D8"/>Ditto when sweep rails,</label>
                   <item>0 3 9</item>
                   <label>If groov'd to lap over the frame with a bead on the edge of ditto when straight rails,</label>
                   <item>0 4 0</item>
@@ -5063,7 +5064,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="69" facs="tcp:029308_0067_0FE0470998ECF370"/>
+               <pb n="69" facs="unknown:029308_0067_0FE0470998ECF370"/>
                <head>A Tripod Bottom for a Face Screen,</head>
                <list>
                   <label>With a stretcher and a plain top solid pole,</label>
@@ -5145,7 +5146,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                   <item>0 6 0</item>
                </list>
                <list>
-                  <pb n="70" facs="tcp:029308_0068_0FE047718DCAF5C8"/>
+                  <pb n="70" facs="unknown:029308_0068_0FE047718DCAF5C8"/>
                   <head>Extras.</head>
                   <label>Each inch more in length or width</label>
                   <item>0 0 1 ½</item>
@@ -5218,7 +5219,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                   <label>An astragal on the edge of the bottom when a round front</label>
                   <item>0 1 9</item>
                   <label>
-                     <pb n="71" facs="tcp:029308_0069_0FE04777F263A0B0"/>Ditto when a serpentine front</label>
+                     <pb n="71" facs="unknown:029308_0069_0FE04777F263A0B0"/>Ditto when a serpentine front</label>
                   <item>0 2 1</item>
                   <label>Rabbetting the bottom to receive the rim of square tray</label>
                   <item>0 1 2</item>
@@ -5298,7 +5299,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="72" facs="tcp:029308_0070_0FE046FFB0484290"/>
+               <pb n="72" facs="unknown:029308_0070_0FE046FFB0484290"/>
                <head>A Portable Writing Desk, No. 2,</head>
                <list>
                   <label>With a square drawer eighteen inches long, ten inches wide, six inches deep, with two flaps<g ref="char:punc">▪</g> the bottles at top with wafer box and hollow for pens, the drawer plain,</label>
@@ -5360,7 +5361,7 @@ the edge of ditto, or rabbited in and an ovalo stuck in the cor<g ref="char:EOLh
                <head>A Vase Knife Case No. 1,</head>
                <list>
                   <label>For 3 dozen of knives forks or spoons, 16 joints in the body, and the same in the top, the top to rise with a square stem,
-<pb n="73" facs="tcp:029308_0071_0FE0471363F57990"/>
+<pb n="73" facs="unknown:029308_0071_0FE0471363F57990"/>
 the plinth square, and the bottom lined with cloth, all solid,</label>
                   <item>£. 4 3 0</item>
                </list>
@@ -5426,7 +5427,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   <label>Filling up the corners to receive a circular top pannel,</label>
                   <item>0 2 11</item>
                   <label>
-                     <pb n="74" facs="tcp:029308_0072_0FE0474A7211D348"/>Ditto to receive oval or diamond pannels,</label>
+                     <pb n="74" facs="unknown:029308_0072_0FE0474A7211D348"/>Ditto to receive oval or diamond pannels,</label>
                   <item>0 5 8</item>
                   <label>Ditto when miter'd at the corners each miter,</label>
                   <item>0 0 10</item>
@@ -5495,7 +5496,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="75" facs="tcp:029308_0073_0FE046D84A09B7A8"/>
+               <pb n="75" facs="unknown:029308_0073_0FE046D84A09B7A8"/>
                <head>A Frame to receive a Door,</head>
                <list>
                   <label>Three feet long and one foot six inches wide, a bead stuck round the inner edge,</label>
@@ -5577,7 +5578,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="76" facs="tcp:029308_0074_0FE046E9186EC2C0"/>
+               <pb n="76" facs="unknown:029308_0074_0FE046E9186EC2C0"/>
                <head>Extra price for Sattin and other Woods.</head>
                <list>
                   <label>All work, either solid, or Veneer'd with Sattin or Ma<g ref="char:EOLhyphen"/>nilla wood to be extra in the pound from Mahogany calculated with all the work on it, except banding</label>
@@ -5655,7 +5656,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="77" facs="tcp:029308_0075_0FE0471FACC74990"/>
+               <pb n="77" facs="unknown:029308_0075_0FE0471FACC74990"/>
                <head>A Clock Case.</head>
                <list>
                   <label>With square head and corners, all solid, with straight brackets</label>
@@ -5747,7 +5748,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   <label>Making a sloped roof seperate from bedstead</label>
                   <item>0 6 0</item>
                   <label>
-                     <pb n="78" facs="tcp:029308_0076_0FE046E441253E50"/>Each pully in rails of high post bedstead</label>
+                     <pb n="78" facs="unknown:029308_0076_0FE046E441253E50"/>Each pully in rails of high post bedstead</label>
                   <item>0 0 3</item>
                   <label>Each Astragal miter'd round the posts above the framing</label>
                   <item>0 1 0</item>
@@ -5828,7 +5829,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   <label>Ditto two feet six inches long</label>
                   <item>0 8 0</item>
                   <label>
-                     <pb n="79" facs="tcp:029308_0077_0FE0472136B2B750"/>Ditto three feet long</label>
+                     <pb n="79" facs="unknown:029308_0077_0FE0472136B2B750"/>Ditto three feet long</label>
                   <item>0 9 6</item>
                   <label>Ditto three feet six inches long</label>
                   <item>0 10 6</item>
@@ -5909,7 +5910,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   <label>Sawing out back feet of 1 ½ stuff, each cut,</label>
                   <item>0 0 2 ½</item>
                   <label>
-                     <pb n="80" facs="tcp:029308_0078_0FE04722C3ECBED8"/>Ditto of 2 inch, each ditto,</label>
+                     <pb n="80" facs="unknown:029308_0078_0FE04722C3ECBED8"/>Ditto of 2 inch, each ditto,</label>
                   <item>0 0 3</item>
                   <label>Ditto of 2 ½ inch. each ditto,</label>
                   <item>0 0 3 ½</item>
@@ -5991,7 +5992,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="81" facs="tcp:029308_0079_0FE0470C10733A38"/>
+               <pb n="81" facs="unknown:029308_0079_0FE0470C10733A38"/>
                <head>A Square Back Chair,</head>
                <list>
                   <label>With straight top and stay rail three upright splatts, straight seat, made for stuffing over the rails.</label>
@@ -6068,7 +6069,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div type="list_of_prices">
-               <pb n="82" facs="tcp:029308_0080_0FE046F07842ADF0"/>
+               <pb n="82" facs="unknown:029308_0080_0FE046F07842ADF0"/>
                <head>A Square Back Mahogany Sofa,</head>
                <list>
                   <label>Five feet long, with six feet to ditto, no low rails, straight seat,</label>
@@ -6116,7 +6117,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div type="list_of_prices">
-               <pb facs="tcp:029308_0081_0FE0473EC4C5C958"/>
+               <pb facs="unknown:029308_0081_0FE0473EC4C5C958"/>
                <head>A Dining Table,</head>
                <list>
                   <label>With one or two flaps to ditto, hung with rule, or square joints, four plain marlbro' legs, one fly to each flap, to measure the length and breadth of the tops, and take one half for measure<g ref="char:EOLhyphen"/>ment at per foot,</label>
@@ -6175,7 +6176,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   <label>If made eliptic extra,</label>
                   <item>0 2 10</item>
                   <label>
-                     <pb facs="tcp:029308_0082_0FE046E284081EA8"/>Each shifting flap tongued together,</label>
+                     <pb facs="unknown:029308_0082_0FE046E284081EA8"/>Each shifting flap tongued together,</label>
                   <item>0 5 0</item>
                   <label>Each fly to ditto,</label>
                   <item>0 3 0</item>
@@ -6216,7 +6217,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div n="1" type="table">
-               <pb facs="tcp:029308_0083_0FE046D9D19311B8"/>
+               <pb facs="unknown:029308_0083_0FE046D9D19311B8"/>
                <head>No. I. The price of working mouldings, <hi>&amp;c.</hi> at per foot.</head>
                <p>
                   <table>
@@ -6663,7 +6664,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="2" type="table">
-               <pb facs="tcp:029308_0084_0FE0475E0B4577B0"/>
+               <pb facs="unknown:029308_0084_0FE0475E0B4577B0"/>
                <head>No. II. The Price of working Mouldings on the Top edge of Claws for Tables, &amp;c.</head>
                <p>
                   <table>
@@ -6778,7 +6779,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div n="3" type="table">
-               <pb facs="tcp:029308_0085_0FE0478D6C623E60"/>
+               <pb facs="unknown:029308_0085_0FE0478D6C623E60"/>
                <head>No. III. The price of veneering and working mouldings on Legs and Stump Feet.</head>
                <p>
                   <table>
@@ -6957,7 +6958,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div n="4" type="table">
-               <pb facs="tcp:029308_0086_0FE047658C589178"/>
+               <pb facs="unknown:029308_0086_0FE047658C589178"/>
                <head>No. IV. A Table of Pannelling Pillasters, Stump Feet, Legs, &amp;c.</head>
                <p>
                   <table>
@@ -7249,7 +7250,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="5" type="table">
-               <pb facs="tcp:029308_0087_0FE046D6BA986D60"/>
+               <pb facs="unknown:029308_0087_0FE046D6BA986D60"/>
                <head>No. V. The price of Therming and Tapering Legs, as in Plate.</head>
                <p>
                   <table>
@@ -7388,7 +7389,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div n="6" type="table">
-               <pb facs="tcp:029308_0088_0FE046EEEF4BB638"/>
+               <pb facs="unknown:029308_0088_0FE046EEEF4BB638"/>
                <head>No. VI. A Table of Pannelling with string, &amp;c.</head>
                <p>
                   <table>
@@ -7676,7 +7677,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   </gap> by a string only, —Ditto, when a pannel, — <hi>2</hi>d.</p>
             </div>
             <div n="7" type="table">
-               <pb facs="tcp:029308_0089_0FE046FCA0CC1670"/>
+               <pb facs="unknown:029308_0089_0FE046FCA0CC1670"/>
                <head>No. VII. The price of forming Ovals or Circles by Strings.</head>
                <p>
                   <table>
@@ -7835,7 +7836,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div n="8" type="table">
-               <pb facs="tcp:029308_0090_0FE0477F6EB32B70"/>
+               <pb facs="unknown:029308_0090_0FE0477F6EB32B70"/>
                <head>No. VIII.</head>
                <p>
                   <table>
@@ -8023,7 +8024,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="9" type="table">
-               <pb facs="tcp:029308_0091_0FE047252D7FB098"/>
+               <pb facs="unknown:029308_0091_0FE047252D7FB098"/>
                <head>
                   <hi>No. IX.</hi> Tables of Banding.</head>
                <p>
@@ -8257,7 +8258,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </list>
             </div>
             <div n="10" type="table">
-               <pb facs="tcp:029308_0092_0FE04773FAC739D8"/>
+               <pb facs="unknown:029308_0092_0FE04773FAC739D8"/>
                <head>No. X. Tables of Banding, forming Square Pannels by strings on doors, drawer fronts, &amp;c. either straight or sweeped work per foot.</head>
                <p>
                   <table>
@@ -8453,7 +8454,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="11" type="table">
-               <pb facs="tcp:029308_0093_0FE04730F2B114D0"/>
+               <pb facs="unknown:029308_0093_0FE04730F2B114D0"/>
                <head>No. XI. The price of Cross or Long Banding, Oval, or Cir<g ref="char:EOLhyphen"/>cular Pannels.</head>
                <p>
                   <table>
@@ -8662,7 +8663,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="12" type="table">
-               <pb facs="tcp:029308_0094_0FE0478283EE5900"/>
+               <pb facs="unknown:029308_0094_0FE0478283EE5900"/>
                <head>No. XII. A Table of Fluting.</head>
                <p>
                   <table>
@@ -9149,7 +9150,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="13" type="table">
-               <pb facs="tcp:029308_0095_0FE0478FDCDF6350"/>
+               <pb facs="unknown:029308_0095_0FE0478FDCDF6350"/>
                <head>No. XIII. The Price of Veneering on Flush Doors, Ends, Tops, &amp;c. with square and hollow corners.</head>
                <p>
                   <table>
@@ -9527,7 +9528,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="14" type="table">
-               <pb facs="tcp:029308_0096_0FE046DC41FA7070"/>
+               <pb facs="unknown:029308_0096_0FE046DC41FA7070"/>
                <head>No XIV. The price of preparing and laying Ovals on flush work, and quartering up ditto.</head>
                <p>
                   <table>
@@ -9764,7 +9765,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="15" type="table">
-               <pb facs="tcp:029308_0097_0FE046F20352E420"/>
+               <pb facs="unknown:029308_0097_0FE046F20352E420"/>
                <head>No XV. The Price of Planting Astragals on Doors and Drawer Fronts, &amp;c.</head>
                <p>
                   <table>
@@ -10065,7 +10066,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="16" type="table">
-               <pb facs="tcp:029308_0098_0FE046FB16445CF8"/>
+               <pb facs="unknown:029308_0098_0FE046FB16445CF8"/>
                <head>No. XVI. Prices of Doors in Library Book-Cases, &amp;c.</head>
                <p>
                   <table>
@@ -10360,7 +10361,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                <p>Ditto, all kinds of sweep insides to be the same as planting on astragals.</p>
             </div>
             <div n="17" type="table">
-               <pb facs="tcp:029308_0099_0FE0474C01DA9C00"/>
+               <pb facs="unknown:029308_0099_0FE0474C01DA9C00"/>
                <head>
                   <hi>No. XVII.</hi> A Table of Pillasters, Canted, and Column Corners.</head>
                <p>
@@ -10736,7 +10737,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="18" type="table">
-               <pb facs="tcp:029308_0100_0FE0474E6D11B070"/>
+               <pb facs="unknown:029308_0100_0FE0474E6D11B070"/>
                <head>No. XVIII. A Table of Ven<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ring Drawer Fronts, or Sham Ditto, Table Frames. &amp;c.</head>
@@ -11802,7 +11803,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                </p>
             </div>
             <div n="19" type="table">
-               <pb facs="tcp:029308_0101_0FE04758723BBDC0"/>
+               <pb facs="unknown:029308_0101_0FE04758723BBDC0"/>
                <head>No. XIX. A Table of Cockbeading <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>rawer Fronts &amp; Sham Do.</head>
@@ -12445,7 +12446,7 @@ the plinth square, and the bottom lined with cloth, all solid,</label>
                   </gap>ings.</p>
             </div>
             <div n="20" type="table">
-               <pb facs="tcp:029308_0102_0FE04780F7AB2110"/>
+               <pb facs="unknown:029308_0102_0FE04780F7AB2110"/>
                <head>No. XX. A Table of Sawing out, glueing up all sorts of Circular, Serpentine or Fla<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>
